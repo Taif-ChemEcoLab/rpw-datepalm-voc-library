@@ -15,3 +15,5 @@ The dataset has been standardized and transformed into a machine-learning-ready 
 ## Reproducibility
 
 All data cleaning, compound harmonization, and matrix generation steps are fully reproducible through the provided scripts.
+
+Link to the library: https://taif-chem-eco-lab.streamlit.app/
